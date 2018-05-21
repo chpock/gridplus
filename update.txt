@@ -1,0 +1,4 @@
+Donwload gridplus-kit-src.zip from http://www.satisoft.com/tcltk/gridplus2/download.html
+Copy gridplus-kit-src.zip/Kit-Src/LICENSE.GRIDPLUS to ./LICENSE
+Copy gridplus-kit-src.zip/Kit-Src/gridplus.vfs/lib/gridplus*/* to ./
+
